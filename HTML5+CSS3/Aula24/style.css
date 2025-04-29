@@ -4,6 +4,7 @@ li{
 
 a:link{
     color: blue;
+    text-decoration: none;
 }
 
 a:visited{
@@ -19,4 +20,28 @@ a:hover{
     font-weight: bold;
     color: blue;
     background-color: yellow;
+}
+
+a.Carro{
+    color: #fb0;
+}
+
+a.Motos{
+    color: #f00;
+}
+
+#c1{
+    color: blue;
+}
+
+#c2{
+    color: red;
+}
+
+#s1{
+    color: yellow;
+}
+
+#s2{
+    color: green;
 }

@@ -1,0 +1,9 @@
+body{
+    background: url(leao.png) no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(25, 25, 112);
+    background-color: rgba(255, 255, 255, 0.5);
+}
