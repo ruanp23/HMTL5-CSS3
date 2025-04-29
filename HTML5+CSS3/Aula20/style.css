@@ -1,0 +1,12 @@
+body{
+    background: -webkit-gradient(linear, to left, blue, 20%, black)
+}
+
+h1{
+    color: transparent;
+    background: url('Paisagem-1.png') repeat;
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    font-size: 5em;
+}
