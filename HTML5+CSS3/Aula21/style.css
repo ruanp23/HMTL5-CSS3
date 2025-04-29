@@ -1,9 +1,0 @@
-body{
-    background: url('Paisagem-1.png') no-repeat;
-    /* Código está correto */
-    -webkit-background-size: cover;
-}
-
-h1{
-    background-color: white;
-}
